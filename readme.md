@@ -40,8 +40,5 @@ A RAG (Retrieval Augmented Generation) chatbot that lets you upload any PDF and 
    streamlit run app.py
 ```
 
-## 📸 Demo
-![RAG Chatbot Demo](demo.png)
-
 ## 👨‍💻 Author
 Built by Ahsan — BS Artificial Intelligence, 4th Semester
